@@ -1,7 +1,7 @@
 # cs101-version-control-861
 
-#My Cs profile
+# My Cs profile
 
-##About me
+## About me
 - Name: Suppasit Uthairangsee
 - Major: Computer science
