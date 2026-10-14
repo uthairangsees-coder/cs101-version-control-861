@@ -17,3 +17,7 @@
 - Game Dev
 - Deep learning
 
+
+## Skill
+- Programing
+- gaming
