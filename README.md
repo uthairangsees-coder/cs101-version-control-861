@@ -12,3 +12,8 @@
 - Learn Git and Github
 - Build personal website
 
+
+## Technology Interest
+- Game Dev
+- Deep learning
+
